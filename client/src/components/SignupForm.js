@@ -45,6 +45,7 @@ const SignupForm = () => {
     } catch (err) {
       console.error(err);
       setShowAlert(true);
+      throw error;
     }
 
     setUserFormData({
