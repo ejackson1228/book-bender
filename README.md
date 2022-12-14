@@ -1,7 +1,7 @@
 # <h1 align="center">Book Search Engine</h1>
 
 ## Description
-This application is a previously functional Book Search/Save app using a RESTful API (Google Book Search) that has been converted to use a GraphQL API. Functionality remains the same for the user, but the back-end has been augmented to use modern/upcoming technology.
+This application is a previously functional Book Search/Save app using a RESTful API and Google Book Search API that has been converted to use a GraphQL API alongside the Book Search API. Functionality remains the same for the user, but the back-end has been augmented to use modern/upcoming technology.
 
 ## Deployed
 
