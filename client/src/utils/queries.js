@@ -17,3 +17,5 @@ export const QUERY_ME = gql `
         }
     }
 `;
+
+export default QUERY_ME;
